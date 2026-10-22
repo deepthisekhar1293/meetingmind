@@ -1,0 +1,13 @@
+Sam: Quick standup. Anything blocking?
+Neha: The staging server keeps crashing since Monday. I raised a ticket with DevOps but nobody has
+replied.
+Sam: That blocks the demo on the 30th. Neha, please escalate it to the DevOps lead today.
+Neha: Okay, I'll message him right now.
+Arjun: I finished the login bug fix. It's in review. I'll start on the notification settings page
+after that.
+Sam: Good. Let's also agree that all new API endpoints must have tests before merging. That's a team
+rule from today.
+Arjun: Agreed.
+Sam: Does anyone know if the client wants dark mode in version one?
+Neha: I haven't heard. We should ask them.
+Sam: Okay, I'll ask the client in tomorrow's call.

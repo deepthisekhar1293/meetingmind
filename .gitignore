@@ -1,0 +1,8 @@
+.env
+claud API key.txt
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml

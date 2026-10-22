@@ -1,0 +1,20 @@
+Priya: Okay, let's start. This is the weekly sync for the checkout redesign. Main topics are the
+payment gateway migration and the launch date.
+Rahul: On the gateway, the sandbox integration is done. The only thing left is the refund flow,
+which I can finish by next Wednesday.
+Priya: Good. Anita, how is design looking?
+Anita: The new checkout screens are approved by stakeholders. I still need to hand over the mobile
+specs to engineering. I'll send those tomorrow.
+Priya: Great. So we agreed to launch on November 18, right? Everyone okay with that?
+Rahul: Yes, as long as QA gets two full weeks. That's tight.
+Karthik: QA is the risk. We have only one tester available and she's on leave from November 1 to
+November 5.
+Priya: Okay, that is a real blocker. Karthik, can you check if we can borrow a tester from the
+payments team? Please do that by Friday, it's urgent.
+Karthik: Will do.
+Priya: Also, we decided to drop the gift card feature from this release. It will move to the next
+quarter.
+Anita: Fine by me. One question, do we need legal review for the new terms text on the payment page?
+Priya: Not sure. Nobody here knows. Let's find out.
+Rahul: I'll also write the API documentation, but there's no rush on that.
+Priya: Alright, thanks everyone. Let's meet again next Thursday.

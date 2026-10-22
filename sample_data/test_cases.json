@@ -1,0 +1,23 @@
+[
+  {
+    "file": "sample_data/meeting1.txt",
+    "action_items": [
+      {"keyword": "refund", "owner": "Rahul"},
+      {"keyword": "mobile", "owner": "Anita"},
+      {"keyword": "tester", "owner": "Karthik"},
+      {"keyword": "documentation", "owner": "Rahul"}
+    ],
+    "decision_keywords": ["november 18", "gift card"],
+    "risk_keywords": ["qa", "tester"]
+  },
+  {
+    "file": "sample_data/meeting2.txt",
+    "action_items": [
+      {"keyword": "staging", "owner": "Neha"},
+      {"keyword": "notification", "owner": "Arjun"},
+      {"keyword": "dark mode", "owner": "Sam"}
+    ],
+    "decision_keywords": ["test"],
+    "risk_keywords": ["staging"]
+  }
+]
